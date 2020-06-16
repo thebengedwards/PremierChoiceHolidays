@@ -9,8 +9,7 @@ Ben Edwards
 Languages in this project include:
 HTML,
 PHP,
-SQL,
-JavaScript
+SQL
 
 The address for the final product can be found here:
 http://unn-w17004394.newnumyspace.co.uk/PremierChoiceHolidays/webproject.html
