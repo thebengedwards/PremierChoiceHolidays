@@ -1,1 +1,18 @@
 # PremierChoiceHolidays
+First Year Project at Northumbria University Newcastle
+
+The aim of this project was to create a website for an organisation called premier choice holidays. It showcases holidays users could book, and featrues admin functionality.
+
+People who participated on this project:
+Ben Edwards
+
+Languages in this project include:
+HTML,
+PHP,
+SQL,
+JavaScript
+
+The address for the final product can be found here:
+http://unn-w17004394.newnumyspace.co.uk/Premier/home.html
+
+Mark Recieved: 65%
