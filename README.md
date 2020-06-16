@@ -13,6 +13,6 @@ SQL,
 JavaScript
 
 The address for the final product can be found here:
-http://unn-w17004394.newnumyspace.co.uk/Premier/home.html
+http://unn-w17004394.newnumyspace.co.uk/PremierChoiceHolidays/webproject.html
 
 Mark Recieved: 65%
