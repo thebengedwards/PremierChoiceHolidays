@@ -11,7 +11,7 @@
     <img src="premier choice holidays logo.png" alt="Logo" width="80" height="80">
   </a>
 
-  <h3 align="center">PremierChoiceHolidays</h3>
+  <h3 align="center">Premier Choice Holidays</h3>
 
   <p align="center">
     First Year Project at Northumbria University Newcastle
